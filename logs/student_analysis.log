@@ -1,0 +1,49 @@
+2025-01-31 19:22:37,556 - StudentAnalyzer - INFO - Starting main execution
+2025-01-31 19:22:37,557 - StudentAnalyzer - INFO - Initializing StudentAnalyzer with file: data/data (1).csv
+2025-01-31 19:22:37,575 - StudentAnalyzer - INFO - Dataset loaded successfully. Shape: (4424, 37)
+2025-01-31 19:22:37,576 - StudentAnalyzer - INFO - Setting up data types and optimizing memory usage
+2025-01-31 19:22:37,606 - StudentAnalyzer - INFO - Initialization completed successfully
+2025-01-31 19:22:37,606 - StudentAnalyzer - INFO - Preprocessing data...
+2025-01-31 19:22:37,626 - StudentAnalyzer - INFO - Starting feature distribution analysis
+2025-01-31 19:22:38,101 - StudentAnalyzer - INFO - Saved Marital status distribution plot to results\visualizations\Marital status_distribution.png
+2025-01-31 19:22:38,458 - StudentAnalyzer - INFO - Saved Application mode distribution plot to results\visualizations\Application mode_distribution.png
+2025-01-31 19:22:38,833 - StudentAnalyzer - INFO - Saved Application order distribution plot to results\visualizations\Application order_distribution.png
+2025-01-31 19:22:39,149 - StudentAnalyzer - INFO - Saved Course distribution plot to results\visualizations\Course_distribution.png
+2025-01-31 19:22:39,480 - StudentAnalyzer - INFO - Saved Daytime/evening attendance	 distribution plot to results\visualizations\Daytime_evening attendance__distribution.png
+2025-01-31 19:22:39,801 - StudentAnalyzer - INFO - Saved Previous qualification distribution plot to results\visualizations\Previous qualification_distribution.png
+2025-01-31 19:22:40,169 - StudentAnalyzer - INFO - Saved Previous qualification (grade) distribution plot to results\visualizations\Previous qualification (grade)_distribution.png
+2025-01-31 19:22:40,527 - StudentAnalyzer - INFO - Saved Nacionality distribution plot to results\visualizations\Nacionality_distribution.png
+2025-01-31 19:22:40,978 - StudentAnalyzer - INFO - Saved Mother's qualification distribution plot to results\visualizations\Mother's qualification_distribution.png
+2025-01-31 19:22:41,331 - StudentAnalyzer - INFO - Saved Father's qualification distribution plot to results\visualizations\Father's qualification_distribution.png
+2025-01-31 19:22:42,148 - StudentAnalyzer - INFO - Saved Mother's occupation distribution plot to results\visualizations\Mother's occupation_distribution.png
+2025-01-31 19:22:42,866 - StudentAnalyzer - INFO - Saved Father's occupation distribution plot to results\visualizations\Father's occupation_distribution.png
+2025-01-31 19:22:43,231 - StudentAnalyzer - INFO - Saved Admission grade distribution plot to results\visualizations\Admission grade_distribution.png
+2025-01-31 19:22:43,564 - StudentAnalyzer - INFO - Saved Displaced distribution plot to results\visualizations\Displaced_distribution.png
+2025-01-31 19:22:43,884 - StudentAnalyzer - INFO - Saved Educational special needs distribution plot to results\visualizations\Educational special needs_distribution.png
+2025-01-31 19:22:44,140 - StudentAnalyzer - INFO - Saved Debtor distribution plot to results\visualizations\Debtor_distribution.png
+2025-01-31 19:22:44,382 - StudentAnalyzer - INFO - Saved Tuition fees up to date distribution plot to results\visualizations\Tuition fees up to date_distribution.png
+2025-01-31 19:22:44,604 - StudentAnalyzer - INFO - Saved Gender distribution plot to results\visualizations\Gender_distribution.png
+2025-01-31 19:22:44,915 - StudentAnalyzer - INFO - Saved Scholarship holder distribution plot to results\visualizations\Scholarship holder_distribution.png
+2025-01-31 19:22:45,139 - StudentAnalyzer - INFO - Saved Age at enrollment distribution plot to results\visualizations\Age at enrollment_distribution.png
+2025-01-31 19:22:45,322 - StudentAnalyzer - INFO - Saved International distribution plot to results\visualizations\International_distribution.png
+2025-01-31 19:22:45,508 - StudentAnalyzer - INFO - Saved Curricular units 1st sem (credited) distribution plot to results\visualizations\Curricular units 1st sem (credited)_distribution.png
+2025-01-31 19:22:45,748 - StudentAnalyzer - INFO - Saved Curricular units 1st sem (enrolled) distribution plot to results\visualizations\Curricular units 1st sem (enrolled)_distribution.png
+2025-01-31 19:22:45,985 - StudentAnalyzer - INFO - Saved Curricular units 1st sem (evaluations) distribution plot to results\visualizations\Curricular units 1st sem (evaluations)_distribution.png
+2025-01-31 19:22:46,205 - StudentAnalyzer - INFO - Saved Curricular units 1st sem (approved) distribution plot to results\visualizations\Curricular units 1st sem (approved)_distribution.png
+2025-01-31 19:22:46,426 - StudentAnalyzer - INFO - Saved Curricular units 1st sem (grade) distribution plot to results\visualizations\Curricular units 1st sem (grade)_distribution.png
+2025-01-31 19:22:46,621 - StudentAnalyzer - INFO - Saved Curricular units 1st sem (without evaluations) distribution plot to results\visualizations\Curricular units 1st sem (without evaluations)_distribution.png
+2025-01-31 19:22:46,856 - StudentAnalyzer - INFO - Saved Curricular units 2nd sem (credited) distribution plot to results\visualizations\Curricular units 2nd sem (credited)_distribution.png
+2025-01-31 19:22:47,117 - StudentAnalyzer - INFO - Saved Curricular units 2nd sem (enrolled) distribution plot to results\visualizations\Curricular units 2nd sem (enrolled)_distribution.png
+2025-01-31 19:22:47,339 - StudentAnalyzer - INFO - Saved Curricular units 2nd sem (evaluations) distribution plot to results\visualizations\Curricular units 2nd sem (evaluations)_distribution.png
+2025-01-31 19:22:47,673 - StudentAnalyzer - INFO - Saved Curricular units 2nd sem (approved) distribution plot to results\visualizations\Curricular units 2nd sem (approved)_distribution.png
+2025-01-31 19:22:47,897 - StudentAnalyzer - INFO - Saved Curricular units 2nd sem (grade) distribution plot to results\visualizations\Curricular units 2nd sem (grade)_distribution.png
+2025-01-31 19:22:48,083 - StudentAnalyzer - INFO - Saved Curricular units 2nd sem (without evaluations) distribution plot to results\visualizations\Curricular units 2nd sem (without evaluations)_distribution.png
+2025-01-31 19:22:48,277 - StudentAnalyzer - INFO - Saved Unemployment rate distribution plot to results\visualizations\Unemployment rate_distribution.png
+2025-01-31 19:22:48,466 - StudentAnalyzer - INFO - Saved Inflation rate distribution plot to results\visualizations\Inflation rate_distribution.png
+2025-01-31 19:22:48,659 - StudentAnalyzer - INFO - Saved GDP distribution plot to results\visualizations\GDP_distribution.png
+2025-01-31 19:22:48,659 - StudentAnalyzer - INFO - Starting academic performance analysis
+2025-01-31 19:22:48,874 - StudentAnalyzer - INFO - Saved Admission grade distribution plot to results\visualizations\Admission grade_distribution.png
+2025-01-31 19:22:48,875 - StudentAnalyzer - INFO - Starting feature selection
+2025-01-31 19:22:49,487 - StudentAnalyzer - INFO - Starting student clustering
+2025-01-31 19:22:49,918 - StudentAnalyzer - INFO - Saved clusters plot to results\visualizations\clusters.png
+2025-01-31 19:22:49,918 - StudentAnalyzer - INFO - Analysis completed successfully

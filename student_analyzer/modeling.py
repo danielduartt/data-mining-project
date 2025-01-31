@@ -4,6 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 import logging
+from typing import List, Dict
 
 class Modeler:
     def __init__(self, data_processor, visualizer, logger: logging.Logger):

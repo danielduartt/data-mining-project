@@ -1,6 +1,6 @@
-import pandas as pd
-import numpy as np
+
 import logging
+from typing import Dict
 
 class Analyzer:
     def __init__(self, data_processor, visualizer, logger: logging.Logger):

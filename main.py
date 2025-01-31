@@ -6,7 +6,7 @@ def main():
     logger.info("Starting main execution")
     
     try:
-        file_path = "cleaned_dataset.csv"
+        file_path = "data/data (1).csv"
         analyzer = DetailedStudentAnalyzer(file_path)
         
         # Pré-processamento de dados
