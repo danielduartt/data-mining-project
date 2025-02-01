@@ -2,38 +2,34 @@ src/
 ├── __init__.py
 ├── config/
 │   ├── __init__.py
-│   ├── logging_config.py      # Configurações de logging
-│   └── analysis_config.py     # Parâmetros e constantes de análise
+│   ├── logging_config.py        # Current logging setup and configuration
+│   └── analysis_config.py       # Current analysis parameters, target names, risk levels
 │
 ├── preprocessing/
 │   ├── __init__.py
-│   ├── data_loader.py        # Carregamento e limpeza inicial dos dados
-│   ├── data_preprocessor.py  # Transformações e preparação dos dados
-│   └── feature_engineering.py # Criação e seleção de features
+│   ├── data_loader.py          # Current df = pd.read_csv(file_path, sep=";")
+│   └── data_preprocessor.py    # Current _setup_data_types() method
 │
 ├── analysis/
 │   ├── __init__.py
-│   ├── feature_analyzer.py    # Análise de distribuições e features
-│   ├── performance_analyzer.py # Análise de performance acadêmica
-│   ├── correlation_analyzer.py # Análise de correlações
-│   ├── risk_analyzer.py       # Análise de risco e dropout
-│   └── semester_analyzer.py    # Análise de padrões por semestre
+│   ├── feature_analyzer.py     # Current analyze_feature_distributions() method
+│   ├── performance_analyzer.py # Current analyze_academic_performance() method
+│   ├── correlation_analyzer.py # Current analyze_correlations() method
+│   ├── risk_analyzer.py       # Current analyze_dropout_patterns() and generate_risk_assessment()
+│   └── semester_analyzer.py   # Current analyze_semester_patterns() and related methods
 │
 ├── visualization/
 │   ├── __init__.py
-│   ├── plot_config.py        # Configurações de visualização
-│   ├── feature_plots.py      # Plots relacionados a features
-│   ├── performance_plots.py  # Plots de performance
-│   └── risk_plots.py         # Plots de risco e dropout
+│   ├── plot_config.py         # Current visualization settings from _setup_analysis_environment()
+│   └── plot_utils.py          # Current visualization helper methods (_visualize_semester_patterns, etc.)
 │
 ├── utils/
 │   ├── __init__.py
-│   ├── data_utils.py         # Funções auxiliares para dados
-│   └── validation_utils.py   # Funções de validação
+│   └── validation_utils.py    # Data validation and error checking utilities
 │
 ├── export/
 │   ├── __init__.py
-│   ├── report_generator.py   # Geração de relatórios
-│   └── data_exporter.py      # Exportação de resultados
+│   ├── report_generator.py    # Current _generate_summary_report() and _generate_recommendations()
+│   └── data_exporter.py      # Current export_results() and related methods
 │
-└── main.py                   # Ponto de entrada da aplicação
+└── main.py                    # Current main() function and DetailedStudentAnalyzer class
