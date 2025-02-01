@@ -1,0 +1,39 @@
+src/
+├── __init__.py
+├── config/
+│   ├── __init__.py
+│   ├── logging_config.py      # Configurações de logging
+│   └── analysis_config.py     # Parâmetros e constantes de análise
+│
+├── preprocessing/
+│   ├── __init__.py
+│   ├── data_loader.py        # Carregamento e limpeza inicial dos dados
+│   ├── data_preprocessor.py  # Transformações e preparação dos dados
+│   └── feature_engineering.py # Criação e seleção de features
+│
+├── analysis/
+│   ├── __init__.py
+│   ├── feature_analyzer.py    # Análise de distribuições e features
+│   ├── performance_analyzer.py # Análise de performance acadêmica
+│   ├── correlation_analyzer.py # Análise de correlações
+│   ├── risk_analyzer.py       # Análise de risco e dropout
+│   └── semester_analyzer.py    # Análise de padrões por semestre
+│
+├── visualization/
+│   ├── __init__.py
+│   ├── plot_config.py        # Configurações de visualização
+│   ├── feature_plots.py      # Plots relacionados a features
+│   ├── performance_plots.py  # Plots de performance
+│   └── risk_plots.py         # Plots de risco e dropout
+│
+├── utils/
+│   ├── __init__.py
+│   ├── data_utils.py         # Funções auxiliares para dados
+│   └── validation_utils.py   # Funções de validação
+│
+├── export/
+│   ├── __init__.py
+│   ├── report_generator.py   # Geração de relatórios
+│   └── data_exporter.py      # Exportação de resultados
+│
+└── main.py                   # Ponto de entrada da aplicação
