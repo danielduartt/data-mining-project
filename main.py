@@ -22,7 +22,7 @@ from export.report_generator import ReportGenerator
 from export.data_exporter import DataExporter
 
 
-def main(file_path: str = "cleaned_dataset.csv") -> Dict:
+def main(file_path: str = "data/cleaned_dataset.csv") -> Dict:
     """
     Main execution function with comprehensive analysis and logging.
 

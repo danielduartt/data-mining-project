@@ -1,0 +1,13 @@
+2025-02-02 15:11:44,443 - StudentAnalyzer - INFO - Logging initialized. Log file: logs\student_analysis_20250202_151144.log
+2025-02-02 15:11:44,443 - StudentAnalyzer - INFO - Starting main execution
+2025-02-02 15:11:44,444 - StudentAnalyzer - INFO - Loading data from: cleaned_dataset.csv
+2025-02-02 15:11:44,445 - StudentAnalyzer - ERROR - Error loading dataset: File not found: cleaned_dataset.csv
+2025-02-02 15:11:44,445 - StudentAnalyzer - ERROR - Error in main execution: File not found: cleaned_dataset.csv
+2025-02-02 15:11:44,445 - StudentAnalyzer - ERROR - Detailed error trace:
+Traceback (most recent call last):
+  File "C:\Users\duart\Documents\GitHub\data-mining-project\main.py", line 45, in main
+    df = DataLoader.load_data(file_path)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\duart\Documents\GitHub\data-mining-project\preprocessing\data_loader.py", line 34, in load_data
+    raise FileNotFoundError(f"File not found: {path}")
+FileNotFoundError: File not found: cleaned_dataset.csv

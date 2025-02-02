@@ -1,0 +1,13 @@
+2025-02-02 15:12:19,621 - StudentAnalyzer - INFO - Logging initialized. Log file: logs\student_analysis_20250202_151219.log
+2025-02-02 15:12:19,622 - StudentAnalyzer - INFO - Starting main execution
+2025-02-02 15:12:19,623 - StudentAnalyzer - INFO - Loading data from: data/data (1).csv
+2025-02-02 15:12:19,689 - StudentAnalyzer - INFO - Dataset loaded successfully. Shape: (4424, 37)
+2025-02-02 15:12:19,690 - StudentAnalyzer - INFO - Validating data
+2025-02-02 15:12:19,694 - StudentAnalyzer - ERROR - Error in main execution: Invalid target values found: {'Dropout', 'Graduate', 'Enrolled'}
+2025-02-02 15:12:19,694 - StudentAnalyzer - ERROR - Detailed error trace:
+Traceback (most recent call last):
+  File "C:\Users\duart\Documents\GitHub\data-mining-project\main.py", line 50, in main
+    DataValidator.validate_target_values(
+  File "C:\Users\duart\Documents\GitHub\data-mining-project\utils\validation_utils.py", line 51, in validate_target_values
+    raise ValueError(f"Invalid target values found: {invalid_targets}")
+ValueError: Invalid target values found: {'Dropout', 'Graduate', 'Enrolled'}
