@@ -1,6 +1,12 @@
-# Projeto de Mineração de Dados
 
-Este repositório foi criado como parte do projeto da disciplina de **Mineração de Dados**. O objetivo do projeto é demonstrar as etapas completas de análise de dados, desde o tratamento e pré-processamento até a aplicação de técnicas de mineração de dados, como previsão de séries temporais e modelos de classificação.
+## Reconhecimentos e Direitos Autorais
+@autor: [DENILSON DA SILVA ALVES, TIAGO DE LIMA BATISTA, DANIEL NUNES DUARTE]
+@data última versão: [02/02/2025]
+@versão: 1.0
+@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
+Copyright/License
+Este material é resultado de um trabalho acadêmico para a disciplina "MINERAÇÃO DE DADOS E APLICAÇÕES NA ENGENHARIA", sob a orientação do professor Dr. THALES LEVI AZEVEDO VALENTE, semestre letivo 2024.2, curso Engenharia da Computação, na Universidade Federal do Maranhão (UFMA). Todo o material sob esta licença é software livre: pode ser usado para fins acadêmicos e comerciais sem nenhum custo. Não há papelada, nem royalties, nem restrições de "copyleft" do tipo GNU. Ele é licenciado sob os termos da Licença MIT, conforme descrito abaixo, e, portanto, é compatível com a GPL e também se qualifica como software de código aberto. É de domínio público. Os detalhes legais estão abaixo. O espírito desta licença é que você é livre para usar este material para qualquer finalidade, sem nenhum custo. O único requisito é que, se você usá-los, nos dê crédito.
+
 
 ## Dataset Utilizado
 
@@ -54,13 +60,12 @@ M.V. Martins, D. Tolledo, J. Machado, L. M.T. Baptista, V. Realinho. (2021) "Ear
 
 3. Execute os notebooks ou scripts na ordem especificada em `notebooks/README.md`.
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests* para melhorias.
 
 ## Licença
 
 Este projeto está licenciado sob os termos da [MIT License](LICENSE).
+Esta Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para lidar no Software sem restrição, incluindo sem limitação os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e permitir pessoas a quem o Software é fornecido a fazê-lo, sujeito às seguintes condições:
+
 
 ---
 
