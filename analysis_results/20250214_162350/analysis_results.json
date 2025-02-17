@@ -1,0 +1,1256 @@
+{
+    "feature_distributions": {
+        "Marital status": {
+            "mean": 1.1785714285714286,
+            "median": 1.0,
+            "std": 0.60574694613071,
+            "skew": 4.399764349657625,
+            "kurtosis": 21.482639298823024,
+            "quantiles": {
+                "0.25": 1.0,
+                "0.5": 1.0,
+                "0.75": 1.0
+            }
+        },
+        "Application mode": {
+            "mean": 18.669077757685354,
+            "median": 17.0,
+            "std": 17.484682291004756,
+            "skew": 0.39303572000104375,
+            "kurtosis": -1.4538060786233447,
+            "quantiles": {
+                "0.25": 1.0,
+                "0.5": 17.0,
+                "0.75": 39.0
+            }
+        },
+        "Application order": {
+            "mean": 1.7278481012658229,
+            "median": 1.0,
+            "std": 1.313793078362206,
+            "skew": 1.8810499569187527,
+            "kurtosis": 2.6512886555471034,
+            "quantiles": {
+                "0.25": 1.0,
+                "0.5": 1.0,
+                "0.75": 2.0
+            }
+        },
+        "Course": {
+            "mean": 20.6498643761302,
+            "median": 28.0,
+            "std": 67.50641211858184,
+            "skew": -0.20058209010713374,
+            "kurtosis": -0.8932189232553056,
+            "quantiles": {
+                "0.25": -58.0,
+                "0.5": 28.0,
+                "0.75": 45.0
+            }
+        },
+        "Daytime/evening attendance\t": {
+            "mean": 0.8908227848101266,
+            "median": 1.0,
+            "std": 0.3118966814817871,
+            "skew": -2.5072376266292378,
+            "kurtosis": 4.288178910222072,
+            "quantiles": {
+                "0.25": 1.0,
+                "0.5": 1.0,
+                "0.75": 1.0
+            }
+        },
+        "Previous qualification": {
+            "mean": 4.577757685352622,
+            "median": 1.0,
+            "std": 10.21659234126796,
+            "skew": 2.8712067778173203,
+            "kurtosis": 6.778166217707259,
+            "quantiles": {
+                "0.25": 1.0,
+                "0.5": 1.0,
+                "0.75": 1.0
+            }
+        },
+        "Previous qualification (grade)": {
+            "mean": 132.6133137432188,
+            "median": 133.1,
+            "std": 13.188331685876213,
+            "skew": 0.3128674880611534,
+            "kurtosis": 0.9682577180691649,
+            "quantiles": {
+                "0.25": 125.0,
+                "0.5": 133.1,
+                "0.75": 140.0
+            }
+        },
+        "Nacionality": {
+            "mean": 1.8731916817359855,
+            "median": 1.0,
+            "std": 6.914514032330145,
+            "skew": 10.703997679591161,
+            "kurtosis": 135.1462064223685,
+            "quantiles": {
+                "0.25": 1.0,
+                "0.5": 1.0,
+                "0.75": 1.0
+            }
+        },
+        "Mother's qualification": {
+            "mean": 19.561934900542497,
+            "median": 19.0,
+            "std": 15.603186323037939,
+            "skew": 0.0019784778637636728,
+            "kurtosis": -1.6922924184890777,
+            "quantiles": {
+                "0.25": 2.0,
+                "0.5": 19.0,
+                "0.75": 37.0
+            }
+        },
+        "Father's qualification": {
+            "mean": 22.275316455696203,
+            "median": 19.0,
+            "std": 15.343107814088581,
+            "skew": -0.2986972192307779,
+            "kurtosis": -1.580591791543521,
+            "quantiles": {
+                "0.25": 3.0,
+                "0.5": 19.0,
+                "0.75": 37.0
+            }
+        },
+        "Mother's occupation": {
+            "mean": 6.0422694394213385,
+            "median": 5.0,
+            "std": 18.739929668076797,
+            "skew": -0.1809931600741925,
+            "kurtosis": 24.335675114118757,
+            "quantiles": {
+                "0.25": 4.0,
+                "0.5": 5.0,
+                "0.75": 9.0
+            }
+        },
+        "Father's occupation": {
+            "mean": 6.6344936708860756,
+            "median": 7.0,
+            "std": 18.51606519197569,
+            "skew": 0.1653083668516211,
+            "kurtosis": 23.910721416395244,
+            "quantiles": {
+                "0.25": 4.0,
+                "0.5": 7.0,
+                "0.75": 9.0
+            }
+        },
+        "Admission grade": {
+            "mean": 126.97811934900544,
+            "median": 126.1,
+            "std": 14.482000818849468,
+            "skew": 0.5305998610691228,
+            "kurtosis": 0.662724599428703,
+            "quantiles": {
+                "0.25": 117.9,
+                "0.5": 126.1,
+                "0.75": 134.8
+            }
+        },
+        "Displaced": {
+            "mean": 0.548372513562387,
+            "median": 1.0,
+            "std": 0.49771085343169424,
+            "skew": -0.1944678977534714,
+            "kurtosis": -1.9630699050469247,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 1.0,
+                "0.75": 1.0
+            }
+        },
+        "Educational special needs": {
+            "mean": 0.011528028933092224,
+            "median": 0.0,
+            "std": 0.10676005722115345,
+            "skew": 9.154976343415278,
+            "kurtosis": 81.85059462915032,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 0.0,
+                "0.75": 0.0
+            }
+        },
+        "Debtor": {
+            "mean": 0.11369801084990959,
+            "median": 0.0,
+            "std": 0.3174800096578208,
+            "skew": 2.4346522339392225,
+            "kurtosis": 3.9293076556843247,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 0.0,
+                "0.75": 0.0
+            }
+        },
+        "Tuition fees up to date": {
+            "mean": 0.8806509945750453,
+            "median": 1.0,
+            "std": 0.3242353829723811,
+            "skew": -2.3490536625054226,
+            "kurtosis": 3.5196440642316555,
+            "quantiles": {
+                "0.25": 1.0,
+                "0.5": 1.0,
+                "0.75": 1.0
+            }
+        },
+        "Gender": {
+            "mean": 0.35171790235081374,
+            "median": 0.0,
+            "std": 0.47756043706245527,
+            "skew": 0.6212791167838527,
+            "kurtosis": -1.6147424556135925,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 0.0,
+                "0.75": 1.0
+            }
+        },
+        "Scholarship holder": {
+            "mean": 0.24841772151898733,
+            "median": 0.0,
+            "std": 0.43214415391219485,
+            "skew": 1.164870855478664,
+            "kurtosis": -0.64336694755873,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 0.0,
+                "0.75": 0.0
+            }
+        },
+        "Age at enrollment": {
+            "mean": 23.265144665461122,
+            "median": 20.0,
+            "std": 7.587815615029815,
+            "skew": 2.0549883694238757,
+            "kurtosis": 4.126891830282256,
+            "quantiles": {
+                "0.25": 19.0,
+                "0.5": 20.0,
+                "0.75": 25.0
+            }
+        },
+        "International": {
+            "mean": 0.024864376130198915,
+            "median": 0.0,
+            "std": 0.15572931888680808,
+            "skew": 6.104830144054609,
+            "kurtosis": 35.284902468360485,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 0.0,
+                "0.75": 0.0
+            }
+        },
+        "Curricular units 1st sem (credited)": {
+            "mean": 0.7099909584086799,
+            "median": 0.0,
+            "std": 2.3605066191181976,
+            "skew": 4.169048768133995,
+            "kurtosis": 19.205726504876417,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 0.0,
+                "0.75": 0.0
+            }
+        },
+        "Curricular units 1st sem (enrolled)": {
+            "mean": 6.2705696202531644,
+            "median": 6.0,
+            "std": 2.480178175307158,
+            "skew": 1.6190409058476551,
+            "kurtosis": 8.937915353420117,
+            "quantiles": {
+                "0.25": 5.0,
+                "0.5": 6.0,
+                "0.75": 7.0
+            }
+        },
+        "Curricular units 1st sem (evaluations)": {
+            "mean": 8.299050632911392,
+            "median": 8.0,
+            "std": 4.179105569144036,
+            "skew": 0.9766367042003191,
+            "kurtosis": 5.463025197984159,
+            "quantiles": {
+                "0.25": 6.0,
+                "0.5": 8.0,
+                "0.75": 10.0
+            }
+        },
+        "Curricular units 1st sem (approved)": {
+            "mean": 4.706600361663653,
+            "median": 5.0,
+            "std": 3.094237979693975,
+            "skew": 0.7662623977563179,
+            "kurtosis": 3.0966798796533097,
+            "quantiles": {
+                "0.25": 3.0,
+                "0.5": 5.0,
+                "0.75": 6.0
+            }
+        },
+        "Curricular units 1st sem (grade)": {
+            "mean": 10.640821575154185,
+            "median": 12.285714285714286,
+            "std": 4.843663380663813,
+            "skew": -1.568145594413272,
+            "kurtosis": 0.9084610302348208,
+            "quantiles": {
+                "0.25": 11.0,
+                "0.5": 12.285714285714286,
+                "0.75": 13.4
+            }
+        },
+        "Curricular units 1st sem (without evaluations)": {
+            "mean": 0.13765822784810128,
+            "median": 0.0,
+            "std": 0.6908801837297979,
+            "skew": 8.207403102428648,
+            "kurtosis": 89.86320827940972,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 0.0,
+                "0.75": 0.0
+            }
+        },
+        "Curricular units 2nd sem (credited)": {
+            "mean": 0.5418173598553345,
+            "median": 0.0,
+            "std": 1.9185461437101994,
+            "skew": 4.634819505432633,
+            "kurtosis": 24.4272657649079,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 0.0,
+                "0.75": 0.0
+            }
+        },
+        "Curricular units 2nd sem (enrolled)": {
+            "mean": 6.232142857142857,
+            "median": 6.0,
+            "std": 2.1959507514632417,
+            "skew": 0.7881135037395065,
+            "kurtosis": 7.134739997806179,
+            "quantiles": {
+                "0.25": 5.0,
+                "0.5": 6.0,
+                "0.75": 7.0
+            }
+        },
+        "Curricular units 2nd sem (evaluations)": {
+            "mean": 8.063291139240507,
+            "median": 8.0,
+            "std": 3.94795094143741,
+            "skew": 0.33649717718772926,
+            "kurtosis": 2.0682858783286133,
+            "quantiles": {
+                "0.25": 6.0,
+                "0.5": 8.0,
+                "0.75": 10.0
+            }
+        },
+        "Curricular units 2nd sem (approved)": {
+            "mean": 4.435804701627487,
+            "median": 5.0,
+            "std": 3.014763902385539,
+            "skew": 0.3062793835136138,
+            "kurtosis": 0.8450446589341913,
+            "quantiles": {
+                "0.25": 2.0,
+                "0.5": 5.0,
+                "0.75": 6.0
+            }
+        },
+        "Curricular units 2nd sem (grade)": {
+            "mean": 10.230205722716985,
+            "median": 12.2,
+            "std": 5.210807954644239,
+            "skew": -1.3136501682968427,
+            "kurtosis": 0.06656735132374347,
+            "quantiles": {
+                "0.25": 10.75,
+                "0.5": 12.2,
+                "0.75": 13.333333333333334
+            }
+        },
+        "Curricular units 2nd sem (without evaluations)": {
+            "mean": 0.15031645569620253,
+            "median": 0.0,
+            "std": 0.7537740685130098,
+            "skew": 7.267700851141788,
+            "kurtosis": 66.81169195489126,
+            "quantiles": {
+                "0.25": 0.0,
+                "0.5": 0.0,
+                "0.75": 0.0
+            }
+        },
+        "Unemployment rate": {
+            "mean": 11.566139221191406,
+            "median": 11.100000381469727,
+            "std": 2.6638505458831787,
+            "skew": 0.2120511531829834,
+            "kurtosis": -0.9955258965492249,
+            "quantiles": {
+                "0.25": 9.399999618530273,
+                "0.5": 11.100000381469727,
+                "0.75": 13.899999618530273
+            }
+        },
+        "Inflation rate": {
+            "mean": 1.2280288934707642,
+            "median": 1.399999976158142,
+            "std": 1.3827106952667236,
+            "skew": 0.25237536430358887,
+            "kurtosis": -1.0390335321426392,
+            "quantiles": {
+                "0.25": 0.30000001192092896,
+                "0.5": 1.399999976158142,
+                "0.75": 2.5999999046325684
+            }
+        },
+        "GDP": {
+            "mean": 0.0019688140600919724,
+            "median": 0.3199999928474426,
+            "std": 2.269935369491577,
+            "skew": -0.3940681517124176,
+            "kurtosis": -1.0016534328460693,
+            "quantiles": {
+                "0.25": -1.7000000476837158,
+                "0.5": 0.3199999928474426,
+                "0.75": 1.7899999618530273
+            }
+        }
+    },
+    "academic_performance": {},
+    "correlations": {
+        "significant_correlations": {
+            "Marital status_Age at enrollment": {
+                "correlation": 0.5227171684130265
+            },
+            "Application mode_Age at enrollment": {
+                "correlation": 0.5162427253595344
+            },
+            "Previous qualification (grade)_Admission grade": {
+                "correlation": 0.5804441978785279
+            },
+            "Nacionality_International": {
+                "correlation": 0.7909349101784291
+            },
+            "Mother's qualification_Father's qualification": {
+                "correlation": 0.5351396811158693
+            },
+            "Mother's occupation_Father's occupation": {
+                "correlation": 0.6164418707520845
+            },
+            "Curricular units 1st sem (credited)_Curricular units 1st sem (enrolled)": {
+                "correlation": 0.7743441891168912
+            },
+            "Curricular units 1st sem (credited)_Curricular units 1st sem (evaluations)": {
+                "correlation": 0.542919440962828
+            },
+            "Curricular units 1st sem (credited)_Curricular units 1st sem (approved)": {
+                "correlation": 0.6283944209937343
+            },
+            "Curricular units 1st sem (credited)_Curricular units 2nd sem (credited)": {
+                "correlation": 0.9448110366582713
+            },
+            "Curricular units 1st sem (credited)_Curricular units 2nd sem (enrolled)": {
+                "correlation": 0.6448259027030505
+            },
+            "Curricular units 1st sem (enrolled)_Curricular units 1st sem (evaluations)": {
+                "correlation": 0.6802196375654453
+            },
+            "Curricular units 1st sem (enrolled)_Curricular units 1st sem (approved)": {
+                "correlation": 0.7690834766824151
+            },
+            "Curricular units 1st sem (enrolled)_Curricular units 2nd sem (credited)": {
+                "correlation": 0.7537467053534808
+            },
+            "Curricular units 1st sem (enrolled)_Curricular units 2nd sem (enrolled)": {
+                "correlation": 0.942626693015919
+            },
+            "Curricular units 1st sem (enrolled)_Curricular units 2nd sem (evaluations)": {
+                "correlation": 0.5995667041335415
+            },
+            "Curricular units 1st sem (enrolled)_Curricular units 2nd sem (approved)": {
+                "correlation": 0.6733405210551701
+            },
+            "Curricular units 1st sem (evaluations)_Curricular units 1st sem (approved)": {
+                "correlation": 0.5223961492004169
+            },
+            "Curricular units 1st sem (evaluations)_Curricular units 2nd sem (credited)": {
+                "correlation": 0.5221865341498277
+            },
+            "Curricular units 1st sem (evaluations)_Curricular units 2nd sem (enrolled)": {
+                "correlation": 0.6118417395322454
+            },
+            "Curricular units 1st sem (evaluations)_Curricular units 2nd sem (evaluations)": {
+                "correlation": 0.7788631362482398
+            },
+            "Curricular units 1st sem (approved)_Curricular units 1st sem (grade)": {
+                "correlation": 0.6961132697921124
+            },
+            "Curricular units 1st sem (approved)_Curricular units 2nd sem (credited)": {
+                "correlation": 0.607661190432814
+            },
+            "Curricular units 1st sem (approved)_Curricular units 2nd sem (enrolled)": {
+                "correlation": 0.7337718828670937
+            },
+            "Curricular units 1st sem (approved)_Curricular units 2nd sem (evaluations)": {
+                "correlation": 0.5399343455592992
+            },
+            "Curricular units 1st sem (approved)_Curricular units 2nd sem (approved)": {
+                "correlation": 0.9040021013038965
+            },
+            "Curricular units 1st sem (approved)_Curricular units 2nd sem (grade)": {
+                "correlation": 0.6855601896741021
+            },
+            "Curricular units 1st sem (grade)_Curricular units 2nd sem (approved)": {
+                "correlation": 0.6733349328302917
+            },
+            "Curricular units 1st sem (grade)_Curricular units 2nd sem (grade)": {
+                "correlation": 0.8371697405958258
+            },
+            "Curricular units 1st sem (without evaluations)_Curricular units 2nd sem (without evaluations)": {
+                "correlation": 0.5832610728532449
+            },
+            "Curricular units 2nd sem (credited)_Curricular units 2nd sem (enrolled)": {
+                "correlation": 0.6762578285189875
+            },
+            "Curricular units 2nd sem (credited)_Curricular units 2nd sem (approved)": {
+                "correlation": 0.5190810533124682
+            },
+            "Curricular units 2nd sem (enrolled)_Curricular units 2nd sem (evaluations)": {
+                "correlation": 0.6048210804385719
+            },
+            "Curricular units 2nd sem (enrolled)_Curricular units 2nd sem (approved)": {
+                "correlation": 0.7032580730157241
+            },
+            "Curricular units 2nd sem (approved)_Curricular units 2nd sem (grade)": {
+                "correlation": 0.7608041759691476
+            }
+        }
+    },
+    "dropout_patterns": {
+        "temporal_patterns": {
+            "Semester_1": {
+                "rate": 0.0406871609403255,
+                "count": 180
+            }
+        },
+        "feature_importance": [
+            {
+                "feature": "Curricular units 2nd sem (grade)",
+                "importance": 0.15183325313134477
+            },
+            {
+                "feature": "Curricular units 2nd sem (approved)",
+                "importance": 0.13140076965327555
+            },
+            {
+                "feature": "Curricular units 1st sem (approved)",
+                "importance": 0.08184417463006145
+            },
+            {
+                "feature": "Tuition fees up to date",
+                "importance": 0.06342466836679239
+            },
+            {
+                "feature": "Curricular units 1st sem (grade)",
+                "importance": 0.06073525728737608
+            },
+            {
+                "feature": "Age at enrollment",
+                "importance": 0.04384042118741418
+            },
+            {
+                "feature": "Admission grade",
+                "importance": 0.03864990285658349
+            },
+            {
+                "feature": "Curricular units 2nd sem (evaluations)",
+                "importance": 0.036944247096353466
+            },
+            {
+                "feature": "Previous qualification (grade)",
+                "importance": 0.03364504065042629
+            },
+            {
+                "feature": "Curricular units 1st sem (evaluations)",
+                "importance": 0.032871990276850706
+            },
+            {
+                "feature": "Course",
+                "importance": 0.028997268036993904
+            },
+            {
+                "feature": "Father's occupation",
+                "importance": 0.025215111265584417
+            },
+            {
+                "feature": "GDP",
+                "importance": 0.02107179294236225
+            },
+            {
+                "feature": "Curricular units 2nd sem (enrolled)",
+                "importance": 0.020980041215491213
+            },
+            {
+                "feature": "Mother's occupation",
+                "importance": 0.020303288591824894
+            },
+            {
+                "feature": "Curricular units 1st sem (enrolled)",
+                "importance": 0.020300268261691158
+            },
+            {
+                "feature": "Application mode",
+                "importance": 0.019979171870846444
+            },
+            {
+                "feature": "Father's qualification",
+                "importance": 0.01944051230598668
+            },
+            {
+                "feature": "Unemployment rate",
+                "importance": 0.018532420782778072
+            },
+            {
+                "feature": "Mother's qualification",
+                "importance": 0.01799143241009622
+            },
+            {
+                "feature": "Inflation rate",
+                "importance": 0.01760387973883997
+            },
+            {
+                "feature": "Debtor",
+                "importance": 0.015460861365488986
+            },
+            {
+                "feature": "Scholarship holder",
+                "importance": 0.01301534154563708
+            },
+            {
+                "feature": "Application order",
+                "importance": 0.011519967002678272
+            },
+            {
+                "feature": "Gender",
+                "importance": 0.009539134903392796
+            },
+            {
+                "feature": "Curricular units 1st sem (credited)",
+                "importance": 0.0072826339725301035
+            },
+            {
+                "feature": "Curricular units 2nd sem (credited)",
+                "importance": 0.006391009643905433
+            },
+            {
+                "feature": "Displaced",
+                "importance": 0.006310251518687204
+            },
+            {
+                "feature": "Previous qualification",
+                "importance": 0.005635759298345881
+            },
+            {
+                "feature": "Curricular units 2nd sem (without evaluations)",
+                "importance": 0.004768706078389383
+            },
+            {
+                "feature": "Curricular units 1st sem (without evaluations)",
+                "importance": 0.004393846360771437
+            },
+            {
+                "feature": "Marital status",
+                "importance": 0.0031328355477664264
+            },
+            {
+                "feature": "Daytime/evening attendance\t",
+                "importance": 0.0023350708404311516
+            },
+            {
+                "feature": "Nacionality",
+                "importance": 0.002300119343764613
+            },
+            {
+                "feature": "Educational special needs",
+                "importance": 0.0011676103802866103
+            },
+            {
+                "feature": "International",
+                "importance": 0.0011419396389509694
+            }
+        ],
+        "demographic_factors": {
+            "Gender": {
+                "0": {
+                    "mean": 0.2510460251046025,
+                    "count": 2868
+                },
+                "1": {
+                    "mean": 0.4505141388174807,
+                    "count": 1556
+                }
+            },
+            "Age at enrollment": {
+                "17": {
+                    "mean": 0.0,
+                    "count": 5
+                },
+                "18": {
+                    "mean": 0.19498069498069498,
+                    "count": 1036
+                },
+                "19": {
+                    "mean": 0.22722283205268934,
+                    "count": 911
+                },
+                "20": {
+                    "mean": 0.22203672787979967,
+                    "count": 599
+                },
+                "21": {
+                    "mean": 0.2888198757763975,
+                    "count": 322
+                },
+                "22": {
+                    "mean": 0.3333333333333333,
+                    "count": 174
+                },
+                "23": {
+                    "mean": 0.37962962962962965,
+                    "count": 108
+                },
+                "24": {
+                    "mean": 0.42748091603053434,
+                    "count": 131
+                },
+                "25": {
+                    "mean": 0.5053763440860215,
+                    "count": 93
+                },
+                "26": {
+                    "mean": 0.5531914893617021,
+                    "count": 94
+                },
+                "27": {
+                    "mean": 0.6043956043956044,
+                    "count": 91
+                },
+                "28": {
+                    "mean": 0.5662650602409639,
+                    "count": 83
+                },
+                "29": {
+                    "mean": 0.6818181818181818,
+                    "count": 66
+                },
+                "30": {
+                    "mean": 0.6122448979591837,
+                    "count": 49
+                },
+                "31": {
+                    "mean": 0.6545454545454545,
+                    "count": 55
+                },
+                "32": {
+                    "mean": 0.5409836065573771,
+                    "count": 61
+                },
+                "33": {
+                    "mean": 0.4444444444444444,
+                    "count": 45
+                },
+                "34": {
+                    "mean": 0.48333333333333334,
+                    "count": 60
+                },
+                "35": {
+                    "mean": 0.5918367346938775,
+                    "count": 49
+                },
+                "36": {
+                    "mean": 0.6,
+                    "count": 35
+                },
+                "37": {
+                    "mean": 0.5476190476190477,
+                    "count": 42
+                },
+                "38": {
+                    "mean": 0.6551724137931034,
+                    "count": 29
+                },
+                "39": {
+                    "mean": 0.47368421052631576,
+                    "count": 38
+                },
+                "40": {
+                    "mean": 0.5652173913043478,
+                    "count": 23
+                },
+                "41": {
+                    "mean": 0.3548387096774194,
+                    "count": 31
+                },
+                "42": {
+                    "mean": 0.5384615384615384,
+                    "count": 13
+                },
+                "43": {
+                    "mean": 0.44,
+                    "count": 25
+                },
+                "44": {
+                    "mean": 0.47619047619047616,
+                    "count": 21
+                },
+                "45": {
+                    "mean": 0.5909090909090909,
+                    "count": 22
+                },
+                "46": {
+                    "mean": 0.5,
+                    "count": 12
+                },
+                "47": {
+                    "mean": 0.6111111111111112,
+                    "count": 18
+                },
+                "48": {
+                    "mean": 0.6363636363636364,
+                    "count": 11
+                },
+                "49": {
+                    "mean": 0.5384615384615384,
+                    "count": 13
+                },
+                "50": {
+                    "mean": 0.5625,
+                    "count": 16
+                },
+                "51": {
+                    "mean": 0.7142857142857143,
+                    "count": 7
+                },
+                "52": {
+                    "mean": 0.0,
+                    "count": 4
+                },
+                "53": {
+                    "mean": 0.42857142857142855,
+                    "count": 7
+                },
+                "54": {
+                    "mean": 0.5714285714285714,
+                    "count": 7
+                },
+                "55": {
+                    "mean": 0.6,
+                    "count": 5
+                },
+                "57": {
+                    "mean": 0.5,
+                    "count": 2
+                },
+                "58": {
+                    "mean": 0.6666666666666666,
+                    "count": 3
+                },
+                "59": {
+                    "mean": 0.6666666666666666,
+                    "count": 3
+                },
+                "60": {
+                    "mean": 0.0,
+                    "count": 2
+                },
+                "61": {
+                    "mean": 1.0,
+                    "count": 1
+                },
+                "62": {
+                    "mean": 0.0,
+                    "count": 1
+                },
+                "70": {
+                    "mean": 1.0,
+                    "count": 1
+                }
+            },
+            "Scholarship holder": {
+                "0": {
+                    "mean": 0.38706766917293234,
+                    "count": 3325
+                },
+                "1": {
+                    "mean": 0.12192902638762511,
+                    "count": 1099
+                }
+            }
+        }
+    },
+    "risk_assessment": {},
+    "semester_patterns": {
+        "semester_metrics": {
+            "Semester_1": {
+                "enrollment_mean": 6.2705696202531644,
+                "approval_mean": 4.706600361663653,
+                "success_rate": 0.7274842289716381,
+                "dropout_rate": 0.0406871609403255
+            }
+        },
+        "transitions": {
+            "Semester_1_to_2": {
+                "improved": 0.1548372513562387,
+                "declined": 0.2504520795660036,
+                "maintained": 0.5947106690777577,
+                "correlation": 0.872831278352982
+            }
+        },
+        "cumulative_performance": {
+            "Dropout": {
+                "avg_total_enrolled": 11.601688951442647,
+                "avg_total_approved": 4.491907107670654,
+                "avg_success_rate": 0.33853226308803375,
+                "count": 1421
+            },
+            "Graduate": {
+                "avg_total_enrolled": 13.297872340425531,
+                "avg_total_approved": 12.409234947940245,
+                "avg_success_rate": 0.9017809559210631,
+                "count": 2209
+            },
+            "Enrolled": {
+                "avg_total_enrolled": 11.903022670025189,
+                "avg_total_approved": 8.376574307304786,
+                "avg_success_rate": 0.6689457342101149,
+                "count": 794
+            }
+        }
+    },
+    "ensemble_analysis": {
+        "models": {
+            "random_forest": {
+                "confusion_matrix": [
+                    [
+                        2901,
+                        102
+                    ],
+                    [
+                        152,
+                        1269
+                    ]
+                ],
+                "classification_report": {
+                    "0": {
+                        "precision": 0.9502129053390108,
+                        "recall": 0.9660339660339661,
+                        "f1-score": 0.9580581241743725,
+                        "support": 3003.0
+                    },
+                    "1": {
+                        "precision": 0.925601750547046,
+                        "recall": 0.8930330752990852,
+                        "f1-score": 0.9090257879656161,
+                        "support": 1421.0
+                    },
+                    "accuracy": 0.9425858951175407,
+                    "macro avg": {
+                        "precision": 0.9379073279430283,
+                        "recall": 0.9295335206665256,
+                        "f1-score": 0.9335419560699942,
+                        "support": 4424.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.9423077401131107,
+                        "recall": 0.9425858951175407,
+                        "f1-score": 0.9423088136516231,
+                        "support": 4424.0
+                    }
+                },
+                "full_dataset": {
+                    "accuracy": 0.9425858951175407,
+                    "precision": 0.925601750547046,
+                    "recall": 0.8930330752990852,
+                    "f1": 0.9090257879656161,
+                    "roc_auc": 0.9871547640724276
+                },
+                "cross_validation": {
+                    "accuracy": {
+                        "mean": 0.8645861601085482,
+                        "std": 0.01226882448353574
+                    },
+                    "precision": {
+                        "mean": 0.824034684648489,
+                        "std": 0.026907397149324132
+                    },
+                    "recall": {
+                        "mean": 0.752874433295576,
+                        "std": 0.023505369696981228
+                    },
+                    "f1": {
+                        "mean": 0.7861273291528061,
+                        "std": 0.0085383228859944
+                    },
+                    "roc_auc": {
+                        "mean": 0.9109933974661052,
+                        "std": 0.01001937984868448
+                    }
+                },
+                "feature_importance": "[0.01143303 0.00673794 0.01534048 0.00175821 0.02418732 0.00897464\n 0.01126665 0.01420059 0.01322226 0.01148033 0.00320194 0.00673744\n 0.04323542 0.00682257 0.00486119 0.02386402 0.0064195  0.01385482\n 0.00957763 0.00456784 0.01759565 0.00386102 0.01274881 0.01474861\n 0.44493941 0.02573951 0.00139561 0.0103952  0.0093709  0.01413666\n 0.08131854 0.01950277 0.0243268  0.04463855 0.01391432 0.01729164\n 0.00184913 0.00048306]"
+            },
+            "gradient_boosting": {
+                "confusion_matrix": [
+                    [
+                        2990,
+                        13
+                    ],
+                    [
+                        65,
+                        1356
+                    ]
+                ],
+                "classification_report": {
+                    "0": {
+                        "precision": 0.9787234042553191,
+                        "recall": 0.9956709956709957,
+                        "f1-score": 0.9871244635193133,
+                        "support": 3003.0
+                    },
+                    "1": {
+                        "precision": 0.9905040175310446,
+                        "recall": 0.9542575650950035,
+                        "f1-score": 0.9720430107526882,
+                        "support": 1421.0
+                    },
+                    "accuracy": 0.9823688969258589,
+                    "macro avg": {
+                        "precision": 0.9846137108931818,
+                        "recall": 0.9749642803829996,
+                        "f1-score": 0.9795837371360008,
+                        "support": 4424.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.9825073670638195,
+                        "recall": 0.9823688969258589,
+                        "f1-score": 0.9822802627097803,
+                        "support": 4424.0
+                    }
+                },
+                "full_dataset": {
+                    "accuracy": 0.9823688969258589,
+                    "precision": 0.9905040175310446,
+                    "recall": 0.9542575650950035,
+                    "f1": 0.9720430107526882,
+                    "roc_auc": 0.9993075186600873
+                },
+                "cross_validation": {
+                    "accuracy": {
+                        "mean": 0.8683853459972862,
+                        "std": 0.012553632028461726
+                    },
+                    "precision": {
+                        "mean": 0.8564515093047926,
+                        "std": 0.019668440830534664
+                    },
+                    "recall": {
+                        "mean": 0.7242402921603275,
+                        "std": 0.026199006380410186
+                    },
+                    "f1": {
+                        "mean": 0.7842755026098701,
+                        "std": 0.013445887073233229
+                    },
+                    "roc_auc": {
+                        "mean": 0.9127876288731335,
+                        "std": 0.00950128389160556
+                    }
+                },
+                "feature_importance": "[0.01493194 0.00857961 0.02606439 0.00247395 0.03619113 0.01551012\n 0.01603287 0.02141365 0.0231164  0.02199222 0.00496459 0.00646136\n 0.03001891 0.00738159 0.00535858 0.033737   0.00677869 0.01639604\n 0.01584942 0.00577352 0.02393199 0.0046036  0.01755225 0.02325613\n 0.2964448  0.04015159 0.00233813 0.01684554 0.01545509 0.02087522\n 0.07526897 0.02419618 0.02791179 0.03517113 0.02384387 0.0297034\n 0.00257501 0.00084935]"
+            },
+            "adaboost": {
+                "confusion_matrix": [
+                    [
+                        2798,
+                        205
+                    ],
+                    [
+                        440,
+                        981
+                    ]
+                ],
+                "classification_report": {
+                    "0": {
+                        "precision": 0.8641136504014824,
+                        "recall": 0.9317349317349317,
+                        "f1-score": 0.8966511776958821,
+                        "support": 3003.0
+                    },
+                    "1": {
+                        "precision": 0.8271500843170321,
+                        "recall": 0.6903589021815623,
+                        "f1-score": 0.7525891829689298,
+                        "support": 1421.0
+                    },
+                    "accuracy": 0.8542043399638336,
+                    "macro avg": {
+                        "precision": 0.8456318673592572,
+                        "recall": 0.811046916958247,
+                        "f1-score": 0.824620180332406,
+                        "support": 4424.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.8522408593965086,
+                        "recall": 0.8542043399638336,
+                        "f1-score": 0.8503781002756743,
+                        "support": 4424.0
+                    }
+                },
+                "full_dataset": {
+                    "accuracy": 0.8542043399638336,
+                    "precision": 0.8271500843170321,
+                    "recall": 0.6903589021815623,
+                    "f1": 0.7525891829689298,
+                    "roc_auc": 0.9065854389570084
+                },
+                "cross_validation": {
+                    "accuracy": {
+                        "mean": 0.8526458616010855,
+                        "std": 0.01497709061226228
+                    },
+                    "precision": {
+                        "mean": 0.8267279942279941,
+                        "std": 0.025898369653395273
+                    },
+                    "recall": {
+                        "mean": 0.7042722388652651,
+                        "std": 0.03863978959947596
+                    },
+                    "f1": {
+                        "mean": 0.7593702661487118,
+                        "std": 0.01686636742561999
+                    },
+                    "roc_auc": {
+                        "mean": 0.9016277813435248,
+                        "std": 0.009204535146790118
+                    }
+                },
+                "feature_importance": "[0.         0.         0.         0.         0.         0.\n 0.         0.         0.         0.         0.         0.\n 0.20306425 0.         0.016868   0.08945556 0.         0.\n 0.         0.         0.         0.         0.00421378 0.\n 0.37597483 0.04357321 0.         0.         0.         0.\n 0.17243631 0.         0.         0.09441405 0.         0.\n 0.         0.        ]"
+            }
+        },
+        "best_model": {
+            "name": "random_forest",
+            "metrics": {
+                "confusion_matrix": [
+                    [
+                        2901,
+                        102
+                    ],
+                    [
+                        152,
+                        1269
+                    ]
+                ],
+                "classification_report": {
+                    "0": {
+                        "precision": 0.9502129053390108,
+                        "recall": 0.9660339660339661,
+                        "f1-score": 0.9580581241743725,
+                        "support": 3003.0
+                    },
+                    "1": {
+                        "precision": 0.925601750547046,
+                        "recall": 0.8930330752990852,
+                        "f1-score": 0.9090257879656161,
+                        "support": 1421.0
+                    },
+                    "accuracy": 0.9425858951175407,
+                    "macro avg": {
+                        "precision": 0.9379073279430283,
+                        "recall": 0.9295335206665256,
+                        "f1-score": 0.9335419560699942,
+                        "support": 4424.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.9423077401131107,
+                        "recall": 0.9425858951175407,
+                        "f1-score": 0.9423088136516231,
+                        "support": 4424.0
+                    }
+                },
+                "full_dataset": {
+                    "accuracy": 0.9425858951175407,
+                    "precision": 0.925601750547046,
+                    "recall": 0.8930330752990852,
+                    "f1": 0.9090257879656161,
+                    "roc_auc": 0.9871547640724276
+                },
+                "cross_validation": {
+                    "accuracy": {
+                        "mean": 0.8645861601085482,
+                        "std": 0.01226882448353574
+                    },
+                    "precision": {
+                        "mean": 0.824034684648489,
+                        "std": 0.026907397149324132
+                    },
+                    "recall": {
+                        "mean": 0.752874433295576,
+                        "std": 0.023505369696981228
+                    },
+                    "f1": {
+                        "mean": 0.7861273291528061,
+                        "std": 0.0085383228859944
+                    },
+                    "roc_auc": {
+                        "mean": 0.9109933974661052,
+                        "std": 0.01001937984868448
+                    }
+                },
+                "feature_importance": "[0.01143303 0.00673794 0.01534048 0.00175821 0.02418732 0.00897464\n 0.01126665 0.01420059 0.01322226 0.01148033 0.00320194 0.00673744\n 0.04323542 0.00682257 0.00486119 0.02386402 0.0064195  0.01385482\n 0.00957763 0.00456784 0.01759565 0.00386102 0.01274881 0.01474861\n 0.44493941 0.02573951 0.00139561 0.0103952  0.0093709  0.01413666\n 0.08131854 0.01950277 0.0243268  0.04463855 0.01391432 0.01729164\n 0.00184913 0.00048306]"
+            }
+        },
+        "model_comparison": {
+            "metrics_comparison": {
+                "random_forest": {
+                    "Accuracy": 0.8645861601085482,
+                    "Precision": 0.824034684648489,
+                    "Recall": 0.752874433295576,
+                    "F1 Score": 0.7861273291528061,
+                    "ROC AUC": 0.9109933974661052
+                },
+                "gradient_boosting": {
+                    "Accuracy": 0.8683853459972862,
+                    "Precision": 0.8564515093047926,
+                    "Recall": 0.7242402921603275,
+                    "F1 Score": 0.7842755026098701,
+                    "ROC AUC": 0.9127876288731335
+                },
+                "adaboost": {
+                    "Accuracy": 0.8526458616010855,
+                    "Precision": 0.8267279942279941,
+                    "Recall": 0.7042722388652651,
+                    "F1 Score": 0.7593702661487118,
+                    "ROC AUC": 0.9016277813435248
+                }
+            }
+        }
+    },
+    "ensemble_risk_scores": "[]"
+}

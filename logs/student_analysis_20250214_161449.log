@@ -1,0 +1,16 @@
+2025-02-14 16:14:49,660 - StudentAnalyzer - INFO - Logging initialized. Log file: logs\student_analysis_20250214_161449.log
+2025-02-14 16:14:49,661 - StudentAnalyzer - INFO - Starting main execution
+2025-02-14 16:14:49,661 - StudentAnalyzer - INFO - Loading data from: data/cleaned_dataset.csv
+2025-02-14 16:14:49,676 - StudentAnalyzer - INFO - Dataset loaded successfully. Shape: (4424, 37)
+2025-02-14 16:14:49,676 - StudentAnalyzer - INFO - Validating data
+2025-02-14 16:14:49,680 - StudentAnalyzer - INFO - Preprocessing data
+2025-02-14 16:14:49,680 - StudentAnalyzer - INFO - Setting up data types and optimizing memory usage
+2025-02-14 16:14:49,684 - StudentAnalyzer - INFO - Initial memory usage: 1.25 MB
+2025-02-14 16:14:49,691 - StudentAnalyzer - INFO - Final memory usage: 0.34 MB
+2025-02-14 16:14:49,691 - StudentAnalyzer - INFO - Memory reduction: 72.63%
+2025-02-14 16:14:49,691 - StudentAnalyzer - INFO - Number of numeric features: 36
+2025-02-14 16:14:49,691 - StudentAnalyzer - INFO - Number of categorical features: 0
+2025-02-14 16:14:49,691 - StudentAnalyzer - INFO - Starting feature analysis
+2025-02-14 16:14:49,691 - StudentAnalyzer - INFO - Starting feature distribution analysis
+2025-02-14 16:14:49,919 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:14:49,924 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

@@ -1,0 +1,226 @@
+2025-02-14 16:27:15,947 - StudentAnalyzer - INFO - Logging initialized. Log file: logs\student_analysis_20250214_162715.log
+2025-02-14 16:27:15,948 - StudentAnalyzer - INFO - Starting main execution
+2025-02-14 16:27:15,949 - StudentAnalyzer - INFO - Loading data from: data/cleaned_dataset.csv
+2025-02-14 16:27:15,965 - StudentAnalyzer - INFO - Dataset loaded successfully. Shape: (4424, 37)
+2025-02-14 16:27:15,965 - StudentAnalyzer - INFO - Validating data
+2025-02-14 16:27:15,969 - StudentAnalyzer - INFO - Preprocessing data
+2025-02-14 16:27:15,969 - StudentAnalyzer - INFO - Setting up data types and optimizing memory usage
+2025-02-14 16:27:15,972 - StudentAnalyzer - INFO - Initial memory usage: 1.25 MB
+2025-02-14 16:27:15,980 - StudentAnalyzer - INFO - Final memory usage: 0.34 MB
+2025-02-14 16:27:15,980 - StudentAnalyzer - INFO - Memory reduction: 72.63%
+2025-02-14 16:27:15,980 - StudentAnalyzer - INFO - Number of numeric features: 36
+2025-02-14 16:27:15,980 - StudentAnalyzer - INFO - Number of categorical features: 0
+2025-02-14 16:27:15,980 - StudentAnalyzer - INFO - Starting feature analysis
+2025-02-14 16:27:15,980 - StudentAnalyzer - INFO - Starting feature distribution analysis
+2025-02-14 16:27:16,249 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:16,254 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:18,969 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:18,976 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:19,504 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:19,510 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:20,015 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:20,020 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:20,484 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:20,489 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:20,975 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:20,979 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:21,460 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:21,464 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:21,932 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:21,936 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:22,398 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:22,403 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:22,878 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:22,883 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:23,434 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:23,439 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:23,992 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:23,997 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:24,494 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:24,499 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:24,996 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:25,000 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:25,495 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:25,499 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:25,991 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:25,995 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:26,480 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:26,484 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:26,955 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:26,959 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:27,494 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:27,498 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:28,009 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:28,013 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:28,551 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:28,556 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:29,059 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:29,063 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:29,586 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:29,591 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:30,055 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:30,060 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:30,519 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:30,524 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:31,074 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:31,079 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:31,570 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:31,575 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:32,076 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:32,080 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:32,623 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:32,628 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:33,108 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:33,112 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:33,650 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:33,655 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:34,133 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:34,140 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:34,617 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:34,621 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:35,099 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:35,104 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:35,595 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:35,599 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:36,047 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:36,052 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:36,430 - StudentAnalyzer - INFO - Feature distribution analysis completed
+2025-02-14 16:27:36,431 - StudentAnalyzer - INFO - Starting performance analysis
+2025-02-14 16:27:36,431 - StudentAnalyzer - INFO - Starting academic performance analysis
+2025-02-14 16:27:36,505 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:36,510 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:36,953 - StudentAnalyzer - ERROR - Error in academic performance analysis: 'float' object is not subscriptable
+2025-02-14 16:27:36,953 - StudentAnalyzer - INFO - Starting correlation analysis
+2025-02-14 16:27:36,953 - StudentAnalyzer - INFO - Starting correlation analysis
+2025-02-14 16:27:38,631 - StudentAnalyzer - INFO - Correlation analysis completed
+2025-02-14 16:27:38,631 - StudentAnalyzer - INFO - Starting risk analysis
+2025-02-14 16:27:38,631 - StudentAnalyzer - INFO - Starting dropout pattern analysis
+2025-02-14 16:27:39,744 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:39,748 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:40,636 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:40,641 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:41,587 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:41,592 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:27:42,184 - StudentAnalyzer - INFO - Dropout pattern analysis completed
+2025-02-14 16:27:42,184 - StudentAnalyzer - INFO - Starting risk assessment generation
+2025-02-14 16:27:42,191 - StudentAnalyzer - ERROR - Error in risk assessment generation: Bin edges must be unique: Index([0.0, 0.0, 0.0, 1.0], dtype='float64', name='risk_score').
+You can drop duplicate edges by setting the 'duplicates' kwarg
+2025-02-14 16:27:42,192 - StudentAnalyzer - INFO - Starting semester analysis
+2025-02-14 16:27:42,192 - StudentAnalyzer - INFO - Starting semester pattern analysis
+2025-02-14 16:27:43,023 - StudentAnalyzer - INFO - Semester pattern analysis completed
+2025-02-14 16:27:43,023 - StudentAnalyzer - INFO - Starting ensemble analysis
+2025-02-14 16:27:43,024 - StudentAnalyzer - INFO - Preparing features with advanced engineering
+2025-02-14 16:27:43,050 - StudentAnalyzer - INFO - Prepared features with shape: (4424, 48)
+2025-02-14 16:27:43,050 - StudentAnalyzer - INFO - Optimizing model hyperparameters...
+2025-02-14 16:27:43,051 - StudentAnalyzer - INFO - Starting hyperparameter optimization
+2025-02-14 16:27:43,053 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,276 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,276 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,278 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,278 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,280 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,280 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,282 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,283 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,284 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,285 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,288 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,293 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,295 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,296 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,297 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,298 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,299 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,300 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,323 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,324 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,346 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,347 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,370 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,371 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,394 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,395 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,426 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,427 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,451 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,452 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,477 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,478 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,501 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,502 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,527 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,532 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,557 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,558 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,583 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,584 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,608 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,609 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,634 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,635 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,661 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,662 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,687 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,688 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,715 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,716 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,742 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,743 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,768 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,769 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,796 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,797 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,832 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,833 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,861 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,862 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,889 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,890 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,917 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,918 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,946 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,947 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:57,974 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:57,976 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,003 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,004 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,032 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,034 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,062 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,062 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,090 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,091 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,121 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,122 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,152 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,153 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,186 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,187 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,216 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,217 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,246 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,246 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,276 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,277 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,306 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,307 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,335 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,336 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,365 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,366 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,395 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,396 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,426 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,427 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,428 - StudentAnalyzer - INFO - Best parameters found: {'rf_n_estimators': 191, 'rf_max_depth': 5, 'rf_min_samples_split': 7, 'rf_min_samples_leaf': 3, 'rf_max_features': 0.5041473602477234, 'gb_n_estimators': 170, 'gb_learning_rate': 0.06276537425033159, 'gb_max_depth': 10, 'gb_subsample': 0.7560605658652761, 'gb_min_samples_split': 12}
+2025-02-14 16:27:58,429 - StudentAnalyzer - INFO - Best value: 0.7763725438368532
+2025-02-14 16:27:58,429 - StudentAnalyzer - INFO - Best hyperparameters found: {'rf_n_estimators': 191, 'rf_max_depth': 5, 'rf_min_samples_split': 7, 'rf_min_samples_leaf': 3, 'rf_max_features': 0.5041473602477234, 'gb_n_estimators': 170, 'gb_learning_rate': 0.06276537425033159, 'gb_max_depth': 10, 'gb_subsample': 0.7560605658652761, 'gb_min_samples_split': 12}
+2025-02-14 16:27:58,429 - StudentAnalyzer - INFO - Starting ensemble analysis of dropout patterns
+2025-02-14 16:27:58,430 - StudentAnalyzer - INFO - Using cached results
+2025-02-14 16:27:58,431 - StudentAnalyzer - ERROR - Error generating risk scores: X has 48 features, but RandomForestClassifier is expecting 38 features as input.
+2025-02-14 16:27:58,432 - StudentAnalyzer - INFO - Generating reports and exporting results
+2025-02-14 16:27:58,450 - StudentAnalyzer - INFO - Summary report generated successfully at analysis_results
+2025-02-14 16:27:58,450 - StudentAnalyzer - INFO - Exporting analysis results to analysis_results
+2025-02-14 16:27:58,756 - StudentAnalyzer - INFO - Results exported successfully to analysis_results\20250214_162758
+2025-02-14 16:27:58,860 - StudentAnalyzer - INFO - Models saved successfully
+2025-02-14 16:27:59,192 - StudentAnalyzer - INFO - Analysis completed successfully

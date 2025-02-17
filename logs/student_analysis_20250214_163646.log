@@ -1,0 +1,188 @@
+2025-02-14 16:36:46,246 - StudentAnalyzer - INFO - Logging initialized. Log file: logs\student_analysis_20250214_163646.log
+2025-02-14 16:36:46,247 - StudentAnalyzer - INFO - Starting main execution
+2025-02-14 16:36:46,248 - StudentAnalyzer - INFO - Loading data from: data/cleaned_dataset.csv
+2025-02-14 16:36:46,263 - StudentAnalyzer - INFO - Dataset loaded successfully. Shape: (4424, 37)
+2025-02-14 16:36:46,263 - StudentAnalyzer - INFO - Validating data
+2025-02-14 16:36:46,267 - StudentAnalyzer - INFO - Preprocessing data
+2025-02-14 16:36:46,267 - StudentAnalyzer - INFO - Setting up data types and optimizing memory usage
+2025-02-14 16:36:46,269 - StudentAnalyzer - INFO - Initial memory usage: 1.25 MB
+2025-02-14 16:36:46,277 - StudentAnalyzer - INFO - Final memory usage: 0.34 MB
+2025-02-14 16:36:46,277 - StudentAnalyzer - INFO - Memory reduction: 72.63%
+2025-02-14 16:36:46,277 - StudentAnalyzer - INFO - Number of numeric features: 36
+2025-02-14 16:36:46,277 - StudentAnalyzer - INFO - Number of categorical features: 0
+2025-02-14 16:36:46,277 - StudentAnalyzer - INFO - Starting feature analysis
+2025-02-14 16:36:46,277 - StudentAnalyzer - INFO - Starting feature distribution analysis
+2025-02-14 16:36:46,570 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:46,577 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:47,455 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:47,460 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:47,983 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:47,990 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:48,513 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:48,517 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:49,006 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:49,015 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:49,481 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:49,486 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:49,996 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:50,001 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:50,432 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:50,437 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:50,926 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:50,931 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:51,398 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:51,402 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:51,985 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:51,990 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:52,672 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:52,676 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:53,242 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:53,247 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:54,905 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:54,912 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:59,143 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:36:59,147 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:02,181 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:02,187 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:05,766 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:05,770 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:07,419 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:07,424 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:08,238 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:08,243 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:08,862 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:08,866 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:09,483 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:09,488 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:10,083 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:10,087 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:10,627 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:10,631 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:11,209 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:11,213 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:11,801 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:11,806 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:12,361 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:12,366 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:12,884 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:12,888 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:13,479 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:13,484 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:14,158 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:14,163 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:14,781 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:14,785 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:15,495 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:15,499 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:16,227 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:16,232 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:16,890 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:16,895 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:17,467 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:17,473 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:18,079 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:18,084 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:18,786 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:18,793 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:19,321 - StudentAnalyzer - INFO - Feature distribution analysis completed
+2025-02-14 16:37:19,322 - StudentAnalyzer - INFO - Starting performance analysis
+2025-02-14 16:37:19,322 - StudentAnalyzer - INFO - Starting academic performance analysis
+2025-02-14 16:37:19,399 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:19,404 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:25,293 - StudentAnalyzer - ERROR - Error in academic performance analysis: 'float' object is not subscriptable
+2025-02-14 16:37:25,293 - StudentAnalyzer - INFO - Starting correlation analysis
+2025-02-14 16:37:25,293 - StudentAnalyzer - INFO - Starting correlation analysis
+2025-02-14 16:37:27,097 - StudentAnalyzer - INFO - Correlation analysis completed
+2025-02-14 16:37:27,097 - StudentAnalyzer - INFO - Starting risk analysis
+2025-02-14 16:37:27,098 - StudentAnalyzer - INFO - Starting dropout pattern analysis
+2025-02-14 16:37:28,278 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:28,282 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:28,901 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:28,907 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:30,040 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:30,044 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-14 16:37:30,604 - StudentAnalyzer - INFO - Dropout pattern analysis completed
+2025-02-14 16:37:30,604 - StudentAnalyzer - INFO - Starting risk assessment generation
+2025-02-14 16:37:30,610 - StudentAnalyzer - ERROR - Error in risk assessment generation: Bin edges must be unique: Index([0.0, 0.0, 0.0, 1.0], dtype='float64', name='risk_score').
+You can drop duplicate edges by setting the 'duplicates' kwarg
+2025-02-14 16:37:30,611 - StudentAnalyzer - INFO - Starting semester analysis
+2025-02-14 16:37:30,611 - StudentAnalyzer - INFO - Starting semester pattern analysis
+2025-02-14 16:37:31,372 - StudentAnalyzer - INFO - Semester pattern analysis completed
+2025-02-14 16:37:31,373 - StudentAnalyzer - INFO - Starting ensemble analysis
+2025-02-14 16:37:31,373 - StudentAnalyzer - INFO - Preparing features with advanced engineering
+2025-02-14 16:37:31,393 - StudentAnalyzer - INFO - Prepared features with shape: (4424, 48)
+2025-02-14 16:37:31,393 - StudentAnalyzer - INFO - Optimizing model hyperparameters...
+2025-02-14 16:37:31,394 - StudentAnalyzer - INFO - Starting enhanced hyperparameter optimization
+2025-02-14 16:37:31,399 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,400 - StudentAnalyzer - INFO - Trial 0 completed. Best score so far: -0.0000
+2025-02-14 16:37:31,402 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,403 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,405 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,407 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,409 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,410 - StudentAnalyzer - INFO - Trial 5 completed. Best score so far: -0.0000
+2025-02-14 16:37:31,411 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,412 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,414 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,416 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,449 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,450 - StudentAnalyzer - INFO - Trial 10 completed. Best score so far: -0.0000
+2025-02-14 16:37:31,479 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,512 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,540 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,569 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,598 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,599 - StudentAnalyzer - INFO - Trial 15 completed. Best score so far: -0.0000
+2025-02-14 16:37:31,633 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,662 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,691 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,720 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,751 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,752 - StudentAnalyzer - INFO - Trial 20 completed. Best score so far: -0.0000
+2025-02-14 16:37:31,782 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,817 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,851 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,882 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,914 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,915 - StudentAnalyzer - INFO - Trial 25 completed. Best score so far: -0.0000
+2025-02-14 16:37:31,947 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:31,981 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,012 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,047 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,081 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,082 - StudentAnalyzer - INFO - Trial 30 completed. Best score so far: -0.0000
+2025-02-14 16:37:32,116 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,147 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,184 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,217 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,254 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,255 - StudentAnalyzer - INFO - Trial 35 completed. Best score so far: -0.0000
+2025-02-14 16:37:32,289 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,324 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,359 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,394 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,429 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,430 - StudentAnalyzer - INFO - Trial 40 completed. Best score so far: -0.0000
+2025-02-14 16:37:32,463 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,498 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,531 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,566 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,602 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,603 - StudentAnalyzer - INFO - Trial 45 completed. Best score so far: -0.0000
+2025-02-14 16:37:32,638 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,673 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,709 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,747 - StudentAnalyzer - ERROR - Error in optimization objective: name 'DecisionTreeClassifier' is not defined
+2025-02-14 16:37:32,749 - StudentAnalyzer - ERROR - Error in main execution: 'w_rf'
+2025-02-14 16:37:32,749 - StudentAnalyzer - ERROR - Detailed error trace:
+Traceback (most recent call last):
+  File "C:\Users\tiago.batista\Documents\personal\data-mining-project\main.py", line 129, in main
+    best_params = ensemble_analyzer.optimize_hyperparameters(X, y, n_trials=50)
+  File "C:\Users\tiago.batista\Documents\personal\data-mining-project\analysis\ensemble_analyzer.py", line 89, in optimize_hyperparameters
+    best_params = optimizer.optimize_ensemble(X, y)
+  File "C:\Users\tiago.batista\Documents\personal\data-mining-project\analysis\optimize_ensemble.py", line 158, in optimize_ensemble
+    best_params = self._process_best_parameters(study.best_params)
+  File "C:\Users\tiago.batista\Documents\personal\data-mining-project\analysis\optimize_ensemble.py", line 184, in _process_best_parameters
+    'rf': best_params['w_rf'],
+          ~~~~~~~~~~~^^^^^^^^
+KeyError: 'w_rf'

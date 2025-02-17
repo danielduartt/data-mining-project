@@ -1,0 +1,72 @@
+Student Performance Analysis Summary Report
+==================================================
+
+Generated on: 2025-02-14 17:23:53
+
+Dataset Overview:
+--------------------
+Total students: 4424
+Time period analyzed: Not available
+Number of features analyzed: 42
+Numeric features: 42
+Categorical features: 0
+
+
+Key Findings:
+--------------------
+Overall dropout rate: 32.1%
+
+Dropout rates by semester:
+  Semester_1: 4.1%
+
+Academic Performance:
+
+Significant Correlations:
+  Marital status_Age at enrollment: 0.52
+  Application mode_Age at enrollment: 0.52
+  Previous qualification (grade)_Admission grade: 0.58
+  Nacionality_International: 0.79
+  Mother's qualification_Father's qualification: 0.54
+  Mother's occupation_Father's occupation: 0.62
+  Curricular units 1st sem (credited)_Curricular units 1st sem (enrolled): 0.77
+  Curricular units 1st sem (credited)_Curricular units 1st sem (evaluations): 0.54
+  Curricular units 1st sem (credited)_Curricular units 1st sem (approved): 0.63
+  Curricular units 1st sem (credited)_Curricular units 2nd sem (credited): 0.94
+  Curricular units 1st sem (credited)_Curricular units 2nd sem (enrolled): 0.64
+  Curricular units 1st sem (enrolled)_Curricular units 1st sem (evaluations): 0.68
+  Curricular units 1st sem (enrolled)_Curricular units 1st sem (approved): 0.77
+  Curricular units 1st sem (enrolled)_Curricular units 2nd sem (credited): 0.75
+  Curricular units 1st sem (enrolled)_Curricular units 2nd sem (enrolled): 0.94
+  Curricular units 1st sem (enrolled)_Curricular units 2nd sem (evaluations): 0.60
+  Curricular units 1st sem (enrolled)_Curricular units 2nd sem (approved): 0.67
+  Curricular units 1st sem (evaluations)_Curricular units 1st sem (approved): 0.52
+  Curricular units 1st sem (evaluations)_Curricular units 2nd sem (credited): 0.52
+  Curricular units 1st sem (evaluations)_Curricular units 2nd sem (enrolled): 0.61
+  Curricular units 1st sem (evaluations)_Curricular units 2nd sem (evaluations): 0.78
+  Curricular units 1st sem (approved)_Curricular units 1st sem (grade): 0.70
+  Curricular units 1st sem (approved)_Curricular units 2nd sem (credited): 0.61
+  Curricular units 1st sem (approved)_Curricular units 2nd sem (enrolled): 0.73
+  Curricular units 1st sem (approved)_Curricular units 2nd sem (evaluations): 0.54
+  Curricular units 1st sem (approved)_Curricular units 2nd sem (approved): 0.90
+  Curricular units 1st sem (approved)_Curricular units 2nd sem (grade): 0.69
+  Curricular units 1st sem (grade)_Curricular units 2nd sem (approved): 0.67
+  Curricular units 1st sem (grade)_Curricular units 2nd sem (grade): 0.84
+  Curricular units 1st sem (without evaluations)_Curricular units 2nd sem (without evaluations): 0.58
+  Curricular units 2nd sem (credited)_Curricular units 2nd sem (enrolled): 0.68
+  Curricular units 2nd sem (credited)_Curricular units 2nd sem (approved): 0.52
+  Curricular units 2nd sem (enrolled)_Curricular units 2nd sem (evaluations): 0.60
+  Curricular units 2nd sem (enrolled)_Curricular units 2nd sem (approved): 0.70
+  Curricular units 2nd sem (approved)_Curricular units 2nd sem (grade): 0.76
+
+Recommendations:
+--------------------
+
+2. Enhance academic support:
+   - Provide targeted tutoring in challenging areas
+   - Develop study skills workshops
+   - Create peer study groups
+
+3. General recommendations:
+   - Monitor student progress regularly
+   - Maintain communication with at-risk students
+   - Review and adjust support programs as needed
